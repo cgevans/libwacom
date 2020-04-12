@@ -528,3 +528,10 @@ Buttons=2
 HasEraser=false
 Axes=Pressure;Distance;
 Type=General
+
+[0x805b]
+Name=Dell Active Pen PN579X
+Buttons=2
+HasEraser=false
+Axes=Pressure;Distance;Tilt;
+Type=General
